@@ -65,6 +65,8 @@ The capacity of existing and candidate generation units are respectively shown i
 
 For the convenience of readers , the parameters of generation units are organized in the 'Generation-Parameters', 'Units-Investment Costs' and 'Units-Variable Costs' sheet.
 
+A capacity value of -1 denotes unlimited availability for this unit type.
+
 The investment costs of units decline as the technology progresses, and the variable costs vary across different regions.
 
 The 8760-hour curve of renewable energy is given in the attached files 'vre_PROSPECT43.mat'. The utilization hour of renewable energy is different across regions.
